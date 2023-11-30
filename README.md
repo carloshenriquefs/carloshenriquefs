@@ -6,11 +6,13 @@
 
 <p align="left"> 
   
-  - Sou de São Paulo, <strong> Desenvolvedor Back-End</strong> com três anos de experiência;
+  - Sou de São Paulo, <strong> Desenvolvedor Back-End </strong> com três anos de experiência;
 
-  - Sempre buscando novos conhecimentos, aprendendo a aprender;
+  - Sempre buscando novos conhecimentos, <strong> #AprendendoAAprender</strong>;
 
   - Me <strong>siga</strong> para acompanhar as novidades dos novos projetos;
+
+##
 
 <h2 align="left">
  🚀 - Tecnologias:
@@ -34,9 +36,9 @@
 
 ##
 
-<p align="left">
-  ✉️ - Entre em contato: 
-</p>
+<h2 align="left">
+✉️ - Contato: 
+</h2>
 
 <a href="https://www.linkedin.com/in/carlos-henrique-fs/" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
