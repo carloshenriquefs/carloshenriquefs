@@ -12,6 +12,19 @@
 
   - Me <strong>siga</strong> para acompanhar as novidades dos novos projetos;
 
+</p>
+
+##
+
+<details>
+  <summary> 📌 <strong>- Mais sobre mim:</strong> </summary>
+
+</br>
+  🏬 - Estudando Análise e Desenvolvimento de Sistemas na <strong> FIAP</strong>;
+</br>
+  💼 -
+</details>
+
 ##
 
 <h2 align="left">
