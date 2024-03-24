@@ -1,29 +1,29 @@
-## 🧑‍💻 - <strong>Carlos Aqui</strong> !!!
+## 🧑‍💻 - <strong>Carlos Here</strong> !!!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carloshenriquefs&color=yellow" alt="Profile views" /> </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  
-<h6> Don't speak Portuguese? <a href="https://github.com/carloshenriquefs/carloshenriquefs/blob/master/README-en.md#-hi-im-mari--:~:text=Blame-,Hi!%20I%27m%20Mari!,-N%C3%A3o%20fala%20ingl%C3%AAs">Click here</a> to view this page in English.</h6>
+
+<h6> Não fala inglês? <a href="https://github.com/carloshenriquefs">Clique aqui</a> para ver essa página em português.</h6>
 </br>
+  
+  - I'm from São Paulo, <strong> Back-End Developer </strong> with three years of experience;
 
-  - Sou de São Paulo, <strong> Desenvolvedor Back-End </strong> com três anos de experiência;
+  - Always seeking new knowledge, <strong> #LearningAAprender</strong>;
 
-  - Sempre buscando novos conhecimentos, <strong> #AprendendoAAprender</strong>;
-
-  - Me <strong>siga</strong> para acompanhar as novidades dos novos projetos;
+  - <strong>Follow me</strong> to keep up to date with new projects;
 
 </p>
 
 ##
 
 <details>
-  <summary> 📌 <strong>- Mais sobre mim:</strong> </summary>
+  <summary> 📌 <strong>- More about me:</strong> </summary>
 
 </br>
-  🏬 - Estudando Análise e Desenvolvimento de Sistemas na <strong> FIAP</strong>;
+  🏬 - Studying Systems Analysis and Development at <strong> FIAP</strong>;
 </br>
   💼 -
 </details>
@@ -31,7 +31,7 @@
 ##
 
 <h2 align="left">
- 🚀 - Tecnologias:
+ 🚀 - Technologies:
 </h2>
 
 - :arrow_forward: <a href = "https://www.google.com.br/" target = "_blank"><img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html-logo"></a>
@@ -57,7 +57,7 @@
 ##
 
 <h2 align="left">
-✉️ - Contato: 
+✉️ - Contact: 
 </h2>
 
 <a href="https://www.linkedin.com/in/carlos-henrique-fs/" title="LinkedIn" target="_blank">
