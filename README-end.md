@@ -6,16 +6,22 @@
 
 <p align="left"> 
 
-<h6> Não fala inglês? <a href="https://github.com/carloshenriquefs">Clique aqui</a> para ver essa página em português.</h6>
-</br>
-  
-  - I'm from São Paulo, <strong> Back-End Developer </strong> with three years of experience;
-
-  - Always seeking new knowledge, <strong> #LearningAAprender</strong>;
-
-  - <strong>Follow me</strong> to keep up to date with new projects;
+* Não fala Inglês? Clique aqui para ver essa página em [Português](README.md). 
 
 </p>
+
+</br>
+
+```
+  
+  - I'm from São Paulo, Back-End Developer with three years of
+    experience;
+
+  - Always seeking new knowledge, #LearningToLearn;
+
+  - Follow me to keep up to date with new projects.
+
+```
 
 ##
 
@@ -25,7 +31,7 @@
 </br>
   🏬 - Studying Systems Analysis and Development at <strong> FIAP</strong>;
 </br>
-  💼 -
+  💼 - Waiting for Opportunities.
 </details>
 
 ##
@@ -34,27 +40,47 @@
  🚀 - Technologies:
 </h2>
 
-- :arrow_forward: <a href = "https://www.google.com.br/" target = "_blank"><img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html-logo"></a>
+###
 
-- :arrow_forward: <a href = "https://www.google.com.br/" target = "_blank"><img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css-logo"></a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+</div>
 
-- :arrow_forward: <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt = "git-logo">
-
-- :arrow_forward: <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "javascript-logo">
-
-- :arrow_forward: <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt = "java-logo">
-
-- :arrow_forward: <img src = "https://img.shields.io/badge/Kotlin-8A2BE2?style=for-the-badge&logo=kotlin&logoColor=white" alt = "kotlin-logo">
-
-- :arrow_forward: <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-logo">
-
-- :arrow_forward: <img src = "https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt = "jwt-logo">
-
-- :arrow_forward: <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt = "postgres-logo">
-
-- :arrow_forward: <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql-logo">
-
-##
+###
 
 <h2 align="left">
 ✉️ - Contact: 
@@ -68,30 +94,16 @@
 </a>
 
 <br>
-<br>
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=carloshenriquefs&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshenriquefs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=carloshenriquefs&theme=dark&hide_border=false"
-        alt="Github stats"
-      />
-    </td>
-  </tr>
-</table>
+<h2 align="left">
+📈 - Statistics:
+</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=carloshenriquefs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carloshenriquefs&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carloshenriquefs&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
