@@ -5,8 +5,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- 
-<h6> Don't speak Portuguese? <a href="https://github.com/carloshenriquefs/carloshenriquefs/blob/main/README-en.md#-carlos-here--:~:text=Blame-,Carlos%20I%27m%20Aqui!,-N%C3%A3o%20fala%20ingl%C3%AAs">Click here</a> to view this page in English.</h6>
+
+* Don't speak Portuguese? Click here to view this page in [English](README-end.md). 
 
 </p>
 
@@ -73,9 +73,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
+
+###
 
 <br clear="both">
 
