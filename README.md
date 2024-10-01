@@ -13,12 +13,14 @@
 </br>
 
 ```
-  · Sou de São Paulo, Desenvolvedor Back-End com três anos
-    de experiência;
+  · Sou de São Paulo, Desenvolvedor Back-End
+    com três anosde experiência;
 
-  · Sempre buscando novos conhecimentos, #AprendendoAAprender;
+  · Sempre buscando novos conhecimentos,
+    #AprendendoAAprender;
 
-  · Me siga para acompanhar as novidades dos novos projetos;
+  · Me siga para acompanhar as novidades dos
+    novos projetos;
 ```   
 </br>
 
